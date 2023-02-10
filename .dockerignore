@@ -1,0 +1,8 @@
+# .git 과 .cache 폴더를 무시
+.git
+.cache
+
+# Node artifact files
+node_modules/
+dist/
+tags*
